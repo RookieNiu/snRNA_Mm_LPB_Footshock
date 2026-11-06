@@ -1,0 +1,17 @@
+scanpy
+anndata
+numpy
+scipy
+matplotlib
+h5py
+pynndescent
+pandas
+numba
+scikit-learn
+umap-learn
+igraph
+leidenalg
+scrublet
+scikit-image
+PyMuPDF
+pytest
