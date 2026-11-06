@@ -1,6 +1,6 @@
-# LPB/PBN single-nucleus RNA-seq
+# LPB single-nucleus RNA-seq
 
-Analysis and visualization code for the LPB/PBN single-nucleus RNA-seq dataset.
+Analysis and visualization code for the LPB single-nucleus RNA-seq dataset.
 
 ## Repository contents
 
